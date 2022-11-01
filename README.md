@@ -3,7 +3,7 @@
   <img width="26%" height="300px" src="https://media.discordapp.net/attachments/1034644480948715530/1034660094681559140/KHAIF9yw_400x400-removebg-preview.png" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+1ntimacy;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+kyan;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ntimacy&layout=compact&hide_border=true&theme=synthwave" />
